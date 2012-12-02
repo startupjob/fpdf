@@ -1,0 +1,27 @@
+{
+    "name": "startupjob/fpdf",
+    "type": "library",
+    "description": "Generation to PDF for use with Symfony 2.1 - developed by StartupJob",
+    "keywords": [
+        "fpdf",
+        "pdf",
+        "startupjob"
+    ],
+    "homepage": "http://www.startupjob.com.br/",
+    "license": "Apache2",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "authors": [
+        {
+            "name": "Saulo Lima",
+            "email": "saulo@startupjob.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Startupjob": ""
+        }
+    },
+    "target-dir" : "Startupjob"
+}
