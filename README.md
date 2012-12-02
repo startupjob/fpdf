@@ -13,13 +13,13 @@ Add the following lines to your 'composer.json' file:
                 "php": ">=5.3.3",
                 "symfony/symfony": "2.1.*",
                 .......
-                "fpdf": "*"
+                "startupjob/fpdf": "*"
          },
         "repositories": [
                 {
                     "type": "package",
                     "package": {
-                        "name": "fpdf",
+                        "name": "startupjob/fpdf",
                         "version": "master",
                         "source": {
                             "url": "git@github.com:startupjob/fpdf.git",
