@@ -37,12 +37,12 @@ Usage
 --------
 
         $pdf = new \PDF;
+
+Developed by
+---------
+[StartupJob](http://www.startupjob.com.br/)
+
 Sources
 ---------
+[FPDF](http://www.fpdf.org/)
 
-            [FPDF](http://www.fpdf.org/)
-
-developed by
----------
-
-            [StartupJob](http://www.startupjob.com.br/)
